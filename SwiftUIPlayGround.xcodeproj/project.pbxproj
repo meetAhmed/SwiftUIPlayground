@@ -12,6 +12,7 @@
 		F15CD19329F7C217001950F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19229F7C217001950F6 /* Assets.xcassets */; };
 		F15CD19629F7C217001950F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19529F7C217001950F6 /* Preview Assets.xcassets */; };
 		F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */; };
+		F1C4515829F92A12003CBD52 /* SwiftUIStacksPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */; };
 		F1D9231729F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		F15CD19229F7C217001950F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F15CD19529F7C217001950F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextsPlayground.swift; sourceTree = "<group>"; };
+		F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStacksPlayground.swift; sourceTree = "<group>"; };
 		F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageButtonStatePlayground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 				F15CD19429F7C217001950F6 /* Preview Content */,
 				F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */,
 				F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */,
+				F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				F1D9231729F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift in Sources */,
 				F15CD19129F7C215001950F6 /* ContentView.swift in Sources */,
 				F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */,
+				F1C4515829F92A12003CBD52 /* SwiftUIStacksPlayground.swift in Sources */,
 				F15CD18F29F7C215001950F6 /* SwiftUIPlayGroundApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
