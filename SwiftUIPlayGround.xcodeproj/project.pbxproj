@@ -14,6 +14,7 @@
 		F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */; };
 		F1C4515829F92A12003CBD52 /* SwiftUIStacksPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */; };
 		F1D9231729F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */; };
+		F1E5D2A029FAC57500B6A060 /* UserInputPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E5D29F29FAC57500B6A060 /* UserInputPlayground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextsPlayground.swift; sourceTree = "<group>"; };
 		F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStacksPlayground.swift; sourceTree = "<group>"; };
 		F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageButtonStatePlayground.swift; sourceTree = "<group>"; };
+		F1E5D29F29FAC57500B6A060 /* UserInputPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInputPlayground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */,
 				F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */,
 				F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */,
+				F1E5D29F29FAC57500B6A060 /* UserInputPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				F1D9231729F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift in Sources */,
 				F15CD19129F7C215001950F6 /* ContentView.swift in Sources */,
+				F1E5D2A029FAC57500B6A060 /* UserInputPlayground.swift in Sources */,
 				F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */,
 				F1C4515829F92A12003CBD52 /* SwiftUIStacksPlayground.swift in Sources */,
 				F15CD18F29F7C215001950F6 /* SwiftUIPlayGroundApp.swift in Sources */,
