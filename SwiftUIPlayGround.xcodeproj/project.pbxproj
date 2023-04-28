@@ -7,23 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F14F063229FB87CC00D17CF2 /* ListPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14F063129FB87CC00D17CF2 /* ListPlayground.swift */; };
+		F14F063429FB8A7B00D17CF2 /* NavigationStackPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14F063329FB8A7B00D17CF2 /* NavigationStackPlayground.swift */; };
 		F15CD18F29F7C215001950F6 /* SwiftUIPlayGroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15CD18E29F7C215001950F6 /* SwiftUIPlayGroundApp.swift */; };
 		F15CD19129F7C215001950F6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15CD19029F7C215001950F6 /* ContentView.swift */; };
 		F15CD19329F7C217001950F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19229F7C217001950F6 /* Assets.xcassets */; };
 		F15CD19629F7C217001950F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19529F7C217001950F6 /* Preview Assets.xcassets */; };
 		F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */; };
+		F19577E029FAD15A00F2F5CA /* NavigationViewPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19577DF29FAD15A00F2F5CA /* NavigationViewPlayground.swift */; };
 		F1C4515829F92A12003CBD52 /* SwiftUIStacksPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */; };
 		F1D9231729F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */; };
 		F1E5D2A029FAC57500B6A060 /* UserInputPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E5D29F29FAC57500B6A060 /* UserInputPlayground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F14F063129FB87CC00D17CF2 /* ListPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPlayground.swift; sourceTree = "<group>"; };
+		F14F063329FB8A7B00D17CF2 /* NavigationStackPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackPlayground.swift; sourceTree = "<group>"; };
 		F15CD18B29F7C215001950F6 /* SwiftUIPlayGround.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPlayGround.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15CD18E29F7C215001950F6 /* SwiftUIPlayGroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPlayGroundApp.swift; sourceTree = "<group>"; };
 		F15CD19029F7C215001950F6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F15CD19229F7C217001950F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F15CD19529F7C217001950F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextsPlayground.swift; sourceTree = "<group>"; };
+		F19577DF29FAD15A00F2F5CA /* NavigationViewPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPlayground.swift; sourceTree = "<group>"; };
 		F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStacksPlayground.swift; sourceTree = "<group>"; };
 		F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageButtonStatePlayground.swift; sourceTree = "<group>"; };
 		F1E5D29F29FAC57500B6A060 /* UserInputPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInputPlayground.swift; sourceTree = "<group>"; };
@@ -67,6 +73,9 @@
 				F1D9231629F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift */,
 				F1C4515729F92A12003CBD52 /* SwiftUIStacksPlayground.swift */,
 				F1E5D29F29FAC57500B6A060 /* UserInputPlayground.swift */,
+				F19577DF29FAD15A00F2F5CA /* NavigationViewPlayground.swift */,
+				F14F063129FB87CC00D17CF2 /* ListPlayground.swift */,
+				F14F063329FB8A7B00D17CF2 /* NavigationStackPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -149,10 +158,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F14F063229FB87CC00D17CF2 /* ListPlayground.swift in Sources */,
 				F1D9231729F8DF1000A5ADE4 /* ImageButtonStatePlayground.swift in Sources */,
 				F15CD19129F7C215001950F6 /* ContentView.swift in Sources */,
+				F14F063429FB8A7B00D17CF2 /* NavigationStackPlayground.swift in Sources */,
 				F1E5D2A029FAC57500B6A060 /* UserInputPlayground.swift in Sources */,
 				F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */,
+				F19577E029FAD15A00F2F5CA /* NavigationViewPlayground.swift in Sources */,
 				F1C4515829F92A12003CBD52 /* SwiftUIStacksPlayground.swift in Sources */,
 				F15CD18F29F7C215001950F6 /* SwiftUIPlayGroundApp.swift in Sources */,
 			);
