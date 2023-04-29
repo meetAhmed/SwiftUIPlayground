@@ -10,6 +10,8 @@
 		F15CD19329F7C217001950F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19229F7C217001950F6 /* Assets.xcassets */; };
 		F15CD19629F7C217001950F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19529F7C217001950F6 /* Preview Assets.xcassets */; };
 		F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */; };
+		F1E04E1229FCD76A000B3971 /* SwiftUIPlayGroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E04E1129FCD76A000B3971 /* SwiftUIPlayGroundApp.swift */; };
+		F1E04E1429FCD787000B3971 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E04E1329FCD787000B3971 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -17,6 +19,8 @@
 		F15CD19229F7C217001950F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F15CD19529F7C217001950F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextsPlayground.swift; sourceTree = "<group>"; };
+		F1E04E1129FCD76A000B3971 /* SwiftUIPlayGroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPlayGroundApp.swift; sourceTree = "<group>"; };
+		F1E04E1329FCD787000B3971 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +53,8 @@
 		F15CD18D29F7C215001950F6 /* SwiftUIPlayGround */ = {
 			isa = PBXGroup;
 			children = (
+				F1E04E1129FCD76A000B3971 /* SwiftUIPlayGroundApp.swift */,
+				F1E04E1329FCD787000B3971 /* ContentView.swift */,
 				F15CD19229F7C217001950F6 /* Assets.xcassets */,
 				F15CD19429F7C217001950F6 /* Preview Content */,
 				F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */,
@@ -134,7 +140,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1E04E1229FCD76A000B3971 /* SwiftUIPlayGroundApp.swift in Sources */,
 				F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */,
+				F1E04E1429FCD787000B3971 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
