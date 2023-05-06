@@ -19,14 +19,15 @@ import SwiftUI
 struct ZIndexPlayground: View {
     var body: some View {
         VStack {
-            
             Rectangle()
                 .fill(.green)
                 .frame(width: 100, height: 100)
+                .zIndex(1)
             
             Rectangle()
-                .fill()
-            
+                .fill(.blue)
+                .frame(width: 100, height: 100)
+                .rotationEffect(.degrees(45))
         }
     }
 }

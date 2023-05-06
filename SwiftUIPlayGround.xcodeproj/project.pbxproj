@@ -10,6 +10,8 @@
 		F10357052A04ECC90013B5BB /* ZIndexPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */; };
 		F11CD7E32A025C1A00EEEE1F /* ScrollViewPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */; };
 		F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */; };
+		F12AFE542A0600A300AEDC40 /* OffsetPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */; };
+		F12AFE562A06024A00AEDC40 /* GeometryReaderPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */; };
 		F140795B2A04A9A000EADBAB /* GridPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F140795A2A04A9A000EADBAB /* GridPlayground.swift */; };
 		F14A89A629FFDF4100407F74 /* ButtonPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14A89A529FFDF4100407F74 /* ButtonPlayground.swift */; };
 		F15CD19329F7C217001950F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19229F7C217001950F6 /* Assets.xcassets */; };
@@ -32,6 +34,8 @@
 		F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZIndexPlayground.swift; sourceTree = "<group>"; };
 		F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPlayground.swift; sourceTree = "<group>"; };
 		F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyStackPlayground.swift; sourceTree = "<group>"; };
+		F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetPlayground.swift; sourceTree = "<group>"; };
+		F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderPlayground.swift; sourceTree = "<group>"; };
 		F140795A2A04A9A000EADBAB /* GridPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPlayground.swift; sourceTree = "<group>"; };
 		F14A89A529FFDF4100407F74 /* ButtonPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPlayground.swift; sourceTree = "<group>"; };
 		F15CD18B29F7C215001950F6 /* SwiftUIPlayGround.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPlayGround.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -100,6 +104,8 @@
 				F1FD020F2A04DA2500BE091F /* LayoutPriorityPlayground.swift */,
 				F1FD02112A04DD0500BE091F /* DividerPlayground.swift */,
 				F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */,
+				F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */,
+				F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -191,9 +197,11 @@
 				F1FD02102A04DA2500BE091F /* LayoutPriorityPlayground.swift in Sources */,
 				F1913DDF2A00C5A400CDAFF8 /* StatePlayground.swift in Sources */,
 				F140795B2A04A9A000EADBAB /* GridPlayground.swift in Sources */,
+				F12AFE542A0600A300AEDC40 /* OffsetPlayground.swift in Sources */,
 				F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */,
 				F1E04E1229FCD76A000B3971 /* SwiftUIPlayGroundApp.swift in Sources */,
 				F1913DE12A00DF4E00CDAFF8 /* BindingPlayground.swift in Sources */,
+				F12AFE562A06024A00AEDC40 /* GeometryReaderPlayground.swift in Sources */,
 				F1913DE92A00F30200CDAFF8 /* PickerPlayground.swift in Sources */,
 				F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */,
 				F14A89A629FFDF4100407F74 /* ButtonPlayground.swift in Sources */,
