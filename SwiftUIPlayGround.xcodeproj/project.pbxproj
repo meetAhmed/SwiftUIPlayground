@@ -8,12 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		F10357052A04ECC90013B5BB /* ZIndexPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */; };
+		F11ACE712A090F4900F30051 /* AlertPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11ACE702A090F4900F30051 /* AlertPlayground.swift */; };
 		F11CD7E32A025C1A00EEEE1F /* ScrollViewPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */; };
 		F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */; };
 		F12AFE542A0600A300AEDC40 /* OffsetPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */; };
 		F12AFE562A06024A00AEDC40 /* GeometryReaderPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */; };
 		F140795B2A04A9A000EADBAB /* GridPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F140795A2A04A9A000EADBAB /* GridPlayground.swift */; };
 		F14A89A629FFDF4100407F74 /* ButtonPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14A89A529FFDF4100407F74 /* ButtonPlayground.swift */; };
+		F153F6EB2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F153F6EA2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift */; };
+		F153F6ED2A09F74F0060FDC4 /* SheetPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F153F6EC2A09F74E0060FDC4 /* SheetPlayground.swift */; };
+		F153F6EF2A0A01600060FDC4 /* FullScreenCoverPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F153F6EE2A0A01600060FDC4 /* FullScreenCoverPlayground.swift */; };
 		F15CD19329F7C217001950F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19229F7C217001950F6 /* Assets.xcassets */; };
 		F15CD19629F7C217001950F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19529F7C217001950F6 /* Preview Assets.xcassets */; };
 		F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */; };
@@ -24,6 +28,7 @@
 		F1913DE52A00E89900CDAFF8 /* TogglePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DE42A00E89900CDAFF8 /* TogglePlayground.swift */; };
 		F1913DE72A00ECB200CDAFF8 /* ImagePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DE62A00ECB200CDAFF8 /* ImagePlayground.swift */; };
 		F1913DE92A00F30200CDAFF8 /* PickerPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DE82A00F30200CDAFF8 /* PickerPlayground.swift */; };
+		F1AE87242A0A40CF00B99DAC /* OverlayPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AE87232A0A40CF00B99DAC /* OverlayPlayground.swift */; };
 		F1E04E1229FCD76A000B3971 /* SwiftUIPlayGroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E04E1129FCD76A000B3971 /* SwiftUIPlayGroundApp.swift */; };
 		F1E04E1429FCD787000B3971 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E04E1329FCD787000B3971 /* ContentView.swift */; };
 		F1FD02102A04DA2500BE091F /* LayoutPriorityPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FD020F2A04DA2500BE091F /* LayoutPriorityPlayground.swift */; };
@@ -32,12 +37,16 @@
 
 /* Begin PBXFileReference section */
 		F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZIndexPlayground.swift; sourceTree = "<group>"; };
+		F11ACE702A090F4900F30051 /* AlertPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertPlayground.swift; sourceTree = "<group>"; };
 		F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPlayground.swift; sourceTree = "<group>"; };
 		F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyStackPlayground.swift; sourceTree = "<group>"; };
 		F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetPlayground.swift; sourceTree = "<group>"; };
 		F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderPlayground.swift; sourceTree = "<group>"; };
 		F140795A2A04A9A000EADBAB /* GridPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPlayground.swift; sourceTree = "<group>"; };
 		F14A89A529FFDF4100407F74 /* ButtonPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPlayground.swift; sourceTree = "<group>"; };
+		F153F6EA2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetAndConfirmationDialogPlayground.swift; sourceTree = "<group>"; };
+		F153F6EC2A09F74E0060FDC4 /* SheetPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetPlayground.swift; sourceTree = "<group>"; };
+		F153F6EE2A0A01600060FDC4 /* FullScreenCoverPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverPlayground.swift; sourceTree = "<group>"; };
 		F15CD18B29F7C215001950F6 /* SwiftUIPlayGround.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPlayGround.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15CD19229F7C217001950F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F15CD19529F7C217001950F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -49,6 +58,7 @@
 		F1913DE42A00E89900CDAFF8 /* TogglePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglePlayground.swift; sourceTree = "<group>"; };
 		F1913DE62A00ECB200CDAFF8 /* ImagePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePlayground.swift; sourceTree = "<group>"; };
 		F1913DE82A00F30200CDAFF8 /* PickerPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerPlayground.swift; sourceTree = "<group>"; };
+		F1AE87232A0A40CF00B99DAC /* OverlayPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayPlayground.swift; sourceTree = "<group>"; };
 		F1E04E1129FCD76A000B3971 /* SwiftUIPlayGroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPlayGroundApp.swift; sourceTree = "<group>"; };
 		F1E04E1329FCD787000B3971 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F1FD020F2A04DA2500BE091F /* LayoutPriorityPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutPriorityPlayground.swift; sourceTree = "<group>"; };
@@ -106,6 +116,11 @@
 				F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */,
 				F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */,
 				F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */,
+				F11ACE702A090F4900F30051 /* AlertPlayground.swift */,
+				F153F6EA2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift */,
+				F153F6EC2A09F74E0060FDC4 /* SheetPlayground.swift */,
+				F153F6EE2A0A01600060FDC4 /* FullScreenCoverPlayground.swift */,
+				F1AE87232A0A40CF00B99DAC /* OverlayPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -189,18 +204,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				F16F6B712A0375EE00BA9B1F /* FormPlayground.swift in Sources */,
+				F1AE87242A0A40CF00B99DAC /* OverlayPlayground.swift in Sources */,
+				F153F6EF2A0A01600060FDC4 /* FullScreenCoverPlayground.swift in Sources */,
 				F1913DE52A00E89900CDAFF8 /* TogglePlayground.swift in Sources */,
 				F11CD7E32A025C1A00EEEE1F /* ScrollViewPlayground.swift in Sources */,
 				F1913DE72A00ECB200CDAFF8 /* ImagePlayground.swift in Sources */,
 				F1913DE32A00E54700CDAFF8 /* SliderPlayground.swift in Sources */,
 				F10357052A04ECC90013B5BB /* ZIndexPlayground.swift in Sources */,
 				F1FD02102A04DA2500BE091F /* LayoutPriorityPlayground.swift in Sources */,
+				F153F6EB2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift in Sources */,
 				F1913DDF2A00C5A400CDAFF8 /* StatePlayground.swift in Sources */,
 				F140795B2A04A9A000EADBAB /* GridPlayground.swift in Sources */,
 				F12AFE542A0600A300AEDC40 /* OffsetPlayground.swift in Sources */,
 				F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */,
+				F153F6ED2A09F74F0060FDC4 /* SheetPlayground.swift in Sources */,
 				F1E04E1229FCD76A000B3971 /* SwiftUIPlayGroundApp.swift in Sources */,
 				F1913DE12A00DF4E00CDAFF8 /* BindingPlayground.swift in Sources */,
+				F11ACE712A090F4900F30051 /* AlertPlayground.swift in Sources */,
 				F12AFE562A06024A00AEDC40 /* GeometryReaderPlayground.swift in Sources */,
 				F1913DE92A00F30200CDAFF8 /* PickerPlayground.swift in Sources */,
 				F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */,
