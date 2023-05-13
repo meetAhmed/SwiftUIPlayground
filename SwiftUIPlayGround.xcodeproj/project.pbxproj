@@ -25,6 +25,7 @@
 		F15CD19629F7C217001950F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19529F7C217001950F6 /* Preview Assets.xcassets */; };
 		F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */; };
 		F16F6B712A0375EE00BA9B1F /* FormPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16F6B702A0375EE00BA9B1F /* FormPlayground.swift */; };
+		F186386E2A0FDB9600557F37 /* AdaptiveSizePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */; };
 		F1913DDF2A00C5A400CDAFF8 /* StatePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DDE2A00C5A400CDAFF8 /* StatePlayground.swift */; };
 		F1913DE12A00DF4E00CDAFF8 /* BindingPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DE02A00DF4E00CDAFF8 /* BindingPlayground.swift */; };
 		F1913DE32A00E54700CDAFF8 /* SliderPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DE22A00E54700CDAFF8 /* SliderPlayground.swift */; };
@@ -62,6 +63,7 @@
 		F15CD19529F7C217001950F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextsPlayground.swift; sourceTree = "<group>"; };
 		F16F6B702A0375EE00BA9B1F /* FormPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormPlayground.swift; sourceTree = "<group>"; };
+		F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveSizePlayground.swift; sourceTree = "<group>"; };
 		F1913DDE2A00C5A400CDAFF8 /* StatePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePlayground.swift; sourceTree = "<group>"; };
 		F1913DE02A00DF4E00CDAFF8 /* BindingPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPlayground.swift; sourceTree = "<group>"; };
 		F1913DE22A00E54700CDAFF8 /* SliderPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderPlayground.swift; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				F152A9A92A0E58B2000E6BFB /* StepperPlayground.swift */,
 				F152A9AB2A0E5EDC000E6BFB /* LinkPlayground.swift */,
 				F124C0782A0F2CAF00A1991A /* GaugePlayground.swift */,
+				F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				F153F6EF2A0A01600060FDC4 /* FullScreenCoverPlayground.swift in Sources */,
 				F1913DE52A00E89900CDAFF8 /* TogglePlayground.swift in Sources */,
 				F124C0792A0F2CAF00A1991A /* GaugePlayground.swift in Sources */,
+				F186386E2A0FDB9600557F37 /* AdaptiveSizePlayground.swift in Sources */,
 				F152A9AC2A0E5EDC000E6BFB /* LinkPlayground.swift in Sources */,
 				F1A83EB22A0B818300C8960A /* EditButtonPlayground.swift in Sources */,
 				F11CD7E32A025C1A00EEEE1F /* ScrollViewPlayground.swift in Sources */,
