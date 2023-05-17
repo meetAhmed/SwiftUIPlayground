@@ -16,6 +16,7 @@
 		F12AFE562A06024A00AEDC40 /* GeometryReaderPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */; };
 		F140795B2A04A9A000EADBAB /* GridPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F140795A2A04A9A000EADBAB /* GridPlayground.swift */; };
 		F14A89A629FFDF4100407F74 /* ButtonPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14A89A529FFDF4100407F74 /* ButtonPlayground.swift */; };
+		F14D59CF2A14837C005E11EB /* DatePickerPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14D59CE2A14837C005E11EB /* DatePickerPlayground.swift */; };
 		F152A9AA2A0E58B2000E6BFB /* StepperPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F152A9A92A0E58B2000E6BFB /* StepperPlayground.swift */; };
 		F152A9AC2A0E5EDC000E6BFB /* LinkPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F152A9AB2A0E5EDC000E6BFB /* LinkPlayground.swift */; };
 		F153F6EB2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F153F6EA2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift */; };
@@ -53,6 +54,7 @@
 		F12AFE552A06024A00AEDC40 /* GeometryReaderPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderPlayground.swift; sourceTree = "<group>"; };
 		F140795A2A04A9A000EADBAB /* GridPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPlayground.swift; sourceTree = "<group>"; };
 		F14A89A529FFDF4100407F74 /* ButtonPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonPlayground.swift; sourceTree = "<group>"; };
+		F14D59CE2A14837C005E11EB /* DatePickerPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerPlayground.swift; sourceTree = "<group>"; };
 		F152A9A92A0E58B2000E6BFB /* StepperPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPlayground.swift; sourceTree = "<group>"; };
 		F152A9AB2A0E5EDC000E6BFB /* LinkPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkPlayground.swift; sourceTree = "<group>"; };
 		F153F6EA2A09ED7D0060FDC4 /* ActionSheetAndConfirmationDialogPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetAndConfirmationDialogPlayground.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				F152A9AB2A0E5EDC000E6BFB /* LinkPlayground.swift */,
 				F124C0782A0F2CAF00A1991A /* GaugePlayground.swift */,
 				F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */,
+				F14D59CE2A14837C005E11EB /* DatePickerPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -249,6 +252,7 @@
 				F152A9AA2A0E58B2000E6BFB /* StepperPlayground.swift in Sources */,
 				F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */,
 				F1A83EAE2A0B742D00C8960A /* SecureFieldPlayground.swift in Sources */,
+				F14D59CF2A14837C005E11EB /* DatePickerPlayground.swift in Sources */,
 				F153F6ED2A09F74F0060FDC4 /* SheetPlayground.swift in Sources */,
 				F1E04E1229FCD76A000B3971 /* SwiftUIPlayGroundApp.swift in Sources */,
 				F1913DE12A00DF4E00CDAFF8 /* BindingPlayground.swift in Sources */,
