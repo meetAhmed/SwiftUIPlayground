@@ -26,6 +26,7 @@
 		F15CD19629F7C217001950F6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15CD19529F7C217001950F6 /* Preview Assets.xcassets */; };
 		F168378529F7ED2800FD0EC6 /* TextsPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */; };
 		F16F6B712A0375EE00BA9B1F /* FormPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16F6B702A0375EE00BA9B1F /* FormPlayground.swift */; };
+		F17017AF2A17459A00B6D1E6 /* AnimationPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17017AE2A17459A00B6D1E6 /* AnimationPlayground.swift */; };
 		F186386E2A0FDB9600557F37 /* AdaptiveSizePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */; };
 		F1913DDF2A00C5A400CDAFF8 /* StatePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DDE2A00C5A400CDAFF8 /* StatePlayground.swift */; };
 		F1913DE12A00DF4E00CDAFF8 /* BindingPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1913DE02A00DF4E00CDAFF8 /* BindingPlayground.swift */; };
@@ -65,6 +66,7 @@
 		F15CD19529F7C217001950F6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F168378429F7ED2800FD0EC6 /* TextsPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextsPlayground.swift; sourceTree = "<group>"; };
 		F16F6B702A0375EE00BA9B1F /* FormPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormPlayground.swift; sourceTree = "<group>"; };
+		F17017AE2A17459A00B6D1E6 /* AnimationPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationPlayground.swift; sourceTree = "<group>"; };
 		F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveSizePlayground.swift; sourceTree = "<group>"; };
 		F1913DDE2A00C5A400CDAFF8 /* StatePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePlayground.swift; sourceTree = "<group>"; };
 		F1913DE02A00DF4E00CDAFF8 /* BindingPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPlayground.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				F124C0782A0F2CAF00A1991A /* GaugePlayground.swift */,
 				F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */,
 				F14D59CE2A14837C005E11EB /* DatePickerPlayground.swift */,
+				F17017AE2A17459A00B6D1E6 /* AnimationPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 				F16F6B712A0375EE00BA9B1F /* FormPlayground.swift in Sources */,
 				F1AE87242A0A40CF00B99DAC /* OverlayPlayground.swift in Sources */,
 				F153F6EF2A0A01600060FDC4 /* FullScreenCoverPlayground.swift in Sources */,
+				F17017AF2A17459A00B6D1E6 /* AnimationPlayground.swift in Sources */,
 				F1913DE52A00E89900CDAFF8 /* TogglePlayground.swift in Sources */,
 				F124C0792A0F2CAF00A1991A /* GaugePlayground.swift in Sources */,
 				F186386E2A0FDB9600557F37 /* AdaptiveSizePlayground.swift in Sources */,
