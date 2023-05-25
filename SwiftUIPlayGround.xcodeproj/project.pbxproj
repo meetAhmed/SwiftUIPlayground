@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F10357052A04ECC90013B5BB /* ZIndexPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */; };
+		F119DE3C2A1F0F9900F74F59 /* ShareLinkPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F119DE3B2A1F0F9900F74F59 /* ShareLinkPlayground.swift */; };
 		F11ACE712A090F4900F30051 /* AlertPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11ACE702A090F4900F30051 /* AlertPlayground.swift */; };
 		F11CD7E32A025C1A00EEEE1F /* ScrollViewPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */; };
 		F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */; };
@@ -47,6 +48,7 @@
 
 /* Begin PBXFileReference section */
 		F10357042A04ECC90013B5BB /* ZIndexPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZIndexPlayground.swift; sourceTree = "<group>"; };
+		F119DE3B2A1F0F9900F74F59 /* ShareLinkPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkPlayground.swift; sourceTree = "<group>"; };
 		F11ACE702A090F4900F30051 /* AlertPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertPlayground.swift; sourceTree = "<group>"; };
 		F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPlayground.swift; sourceTree = "<group>"; };
 		F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyStackPlayground.swift; sourceTree = "<group>"; };
@@ -151,6 +153,7 @@
 				F186386D2A0FDB9600557F37 /* AdaptiveSizePlayground.swift */,
 				F14D59CE2A14837C005E11EB /* DatePickerPlayground.swift */,
 				F17017AE2A17459A00B6D1E6 /* AnimationPlayground.swift */,
+				F119DE3B2A1F0F9900F74F59 /* ShareLinkPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				F186386E2A0FDB9600557F37 /* AdaptiveSizePlayground.swift in Sources */,
 				F152A9AC2A0E5EDC000E6BFB /* LinkPlayground.swift in Sources */,
 				F1A83EB22A0B818300C8960A /* EditButtonPlayground.swift in Sources */,
+				F119DE3C2A1F0F9900F74F59 /* ShareLinkPlayground.swift in Sources */,
 				F11CD7E32A025C1A00EEEE1F /* ScrollViewPlayground.swift in Sources */,
 				F1913DE72A00ECB200CDAFF8 /* ImagePlayground.swift in Sources */,
 				F1913DE32A00E54700CDAFF8 /* SliderPlayground.swift in Sources */,
