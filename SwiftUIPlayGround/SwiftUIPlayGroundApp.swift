@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIPlayGroundApp: App {
     var body: some Scene {
         WindowGroup {
-            ShareLinkPlayground()
+            CombinePlayground()
         }
     }
 }

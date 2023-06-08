@@ -11,6 +11,7 @@
 		F119DE3C2A1F0F9900F74F59 /* ShareLinkPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F119DE3B2A1F0F9900F74F59 /* ShareLinkPlayground.swift */; };
 		F11ACE712A090F4900F30051 /* AlertPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11ACE702A090F4900F30051 /* AlertPlayground.swift */; };
 		F11CD7E32A025C1A00EEEE1F /* ScrollViewPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */; };
+		F11D481E2A30AAB0001D3DAB /* CombinePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11D481D2A30AAB0001D3DAB /* CombinePlayground.swift */; };
 		F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */; };
 		F124C0792A0F2CAF00A1991A /* GaugePlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F124C0782A0F2CAF00A1991A /* GaugePlayground.swift */; };
 		F12AFE542A0600A300AEDC40 /* OffsetPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */; };
@@ -51,6 +52,7 @@
 		F119DE3B2A1F0F9900F74F59 /* ShareLinkPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkPlayground.swift; sourceTree = "<group>"; };
 		F11ACE702A090F4900F30051 /* AlertPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertPlayground.swift; sourceTree = "<group>"; };
 		F11CD7E22A025C1A00EEEE1F /* ScrollViewPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewPlayground.swift; sourceTree = "<group>"; };
+		F11D481D2A30AAB0001D3DAB /* CombinePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinePlayground.swift; sourceTree = "<group>"; };
 		F11FFAFD2A0385690024CDF7 /* LazyStackPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyStackPlayground.swift; sourceTree = "<group>"; };
 		F124C0782A0F2CAF00A1991A /* GaugePlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GaugePlayground.swift; sourceTree = "<group>"; };
 		F12AFE532A0600A300AEDC40 /* OffsetPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffsetPlayground.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				F14D59CE2A14837C005E11EB /* DatePickerPlayground.swift */,
 				F17017AE2A17459A00B6D1E6 /* AnimationPlayground.swift */,
 				F119DE3B2A1F0F9900F74F59 /* ShareLinkPlayground.swift */,
+				F11D481D2A30AAB0001D3DAB /* CombinePlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -236,6 +239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F11D481E2A30AAB0001D3DAB /* CombinePlayground.swift in Sources */,
 				F16F6B712A0375EE00BA9B1F /* FormPlayground.swift in Sources */,
 				F1AE87242A0A40CF00B99DAC /* OverlayPlayground.swift in Sources */,
 				F153F6EF2A0A01600060FDC4 /* FullScreenCoverPlayground.swift in Sources */,
