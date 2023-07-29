@@ -42,6 +42,8 @@
 		F1AE87242A0A40CF00B99DAC /* OverlayPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AE87232A0A40CF00B99DAC /* OverlayPlayground.swift */; };
 		F1E04E1229FCD76A000B3971 /* SwiftUIPlayGroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E04E1129FCD76A000B3971 /* SwiftUIPlayGroundApp.swift */; };
 		F1E04E1429FCD787000B3971 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E04E1329FCD787000B3971 /* ContentView.swift */; };
+		F1F14C612A735D2300024F2B /* CombineSubscriberPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F14C602A735D2300024F2B /* CombineSubscriberPlayground.swift */; };
+		F1F14C632A7377FD00024F2B /* CombinePublisherPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F14C622A7377FD00024F2B /* CombinePublisherPlayground.swift */; };
 		F1F1AC002A0B67CD009F3C50 /* LabelPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F1ABFF2A0B67CD009F3C50 /* LabelPlayground.swift */; };
 		F1FD02102A04DA2500BE091F /* LayoutPriorityPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FD020F2A04DA2500BE091F /* LayoutPriorityPlayground.swift */; };
 		F1FD02122A04DD0600BE091F /* DividerPlayground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FD02112A04DD0500BE091F /* DividerPlayground.swift */; };
@@ -84,6 +86,8 @@
 		F1AE87232A0A40CF00B99DAC /* OverlayPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayPlayground.swift; sourceTree = "<group>"; };
 		F1E04E1129FCD76A000B3971 /* SwiftUIPlayGroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPlayGroundApp.swift; sourceTree = "<group>"; };
 		F1E04E1329FCD787000B3971 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F1F14C602A735D2300024F2B /* CombineSubscriberPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineSubscriberPlayground.swift; sourceTree = "<group>"; };
+		F1F14C622A7377FD00024F2B /* CombinePublisherPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinePublisherPlayground.swift; sourceTree = "<group>"; };
 		F1F1ABFF2A0B67CD009F3C50 /* LabelPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelPlayground.swift; sourceTree = "<group>"; };
 		F1FD020F2A04DA2500BE091F /* LayoutPriorityPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutPriorityPlayground.swift; sourceTree = "<group>"; };
 		F1FD02112A04DD0500BE091F /* DividerPlayground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerPlayground.swift; sourceTree = "<group>"; };
@@ -157,6 +161,8 @@
 				F17017AE2A17459A00B6D1E6 /* AnimationPlayground.swift */,
 				F119DE3B2A1F0F9900F74F59 /* ShareLinkPlayground.swift */,
 				F11D481D2A30AAB0001D3DAB /* CombinePlayground.swift */,
+				F1F14C602A735D2300024F2B /* CombineSubscriberPlayground.swift */,
+				F1F14C622A7377FD00024F2B /* CombinePublisherPlayground.swift */,
 			);
 			path = SwiftUIPlayGround;
 			sourceTree = "<group>";
@@ -245,6 +251,7 @@
 				F153F6EF2A0A01600060FDC4 /* FullScreenCoverPlayground.swift in Sources */,
 				F17017AF2A17459A00B6D1E6 /* AnimationPlayground.swift in Sources */,
 				F1913DE52A00E89900CDAFF8 /* TogglePlayground.swift in Sources */,
+				F1F14C632A7377FD00024F2B /* CombinePublisherPlayground.swift in Sources */,
 				F124C0792A0F2CAF00A1991A /* GaugePlayground.swift in Sources */,
 				F186386E2A0FDB9600557F37 /* AdaptiveSizePlayground.swift in Sources */,
 				F152A9AC2A0E5EDC000E6BFB /* LinkPlayground.swift in Sources */,
@@ -263,6 +270,7 @@
 				F1F1AC002A0B67CD009F3C50 /* LabelPlayground.swift in Sources */,
 				F152A9AA2A0E58B2000E6BFB /* StepperPlayground.swift in Sources */,
 				F11FFAFE2A0385690024CDF7 /* LazyStackPlayground.swift in Sources */,
+				F1F14C612A735D2300024F2B /* CombineSubscriberPlayground.swift in Sources */,
 				F1A83EAE2A0B742D00C8960A /* SecureFieldPlayground.swift in Sources */,
 				F14D59CF2A14837C005E11EB /* DatePickerPlayground.swift in Sources */,
 				F153F6ED2A09F74F0060FDC4 /* SheetPlayground.swift in Sources */,
